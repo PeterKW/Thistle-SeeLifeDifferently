@@ -1,6 +1,7 @@
 # See Life Differently Thistle Course
 
 <!-- https://stackoverflow.com/a/39793125 -->
+
 <object data="TheApproach.pdf" type="application/pdf" width="90%" height="500px">
     <embed src="TheApproach.pdf"></embed>
 </object>
